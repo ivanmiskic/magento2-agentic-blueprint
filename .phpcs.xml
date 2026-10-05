@@ -12,5 +12,5 @@
     <exclude-pattern>*/docs/*</exclude-pattern>
     <exclude-pattern>*.less</exclude-pattern>
     <arg name="extensions" value="php,phtml"/>
-    <ini name="ignore_warnings_on_exit" value="1"/>
+    <config name="ignore_warnings_on_exit" value="1"/>
 </ruleset>
